@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "tfa_car"
-version = "0.1.0"
+version = "0.1.1"
 description = "A python implementation of tfa_car.m from the matlab package found at car-net.org."
 repository = "https://github.com/cloudrainstar/tfa_car"
 authors = ["Ken Liao <cloudrainstar@gmail.com>"]
